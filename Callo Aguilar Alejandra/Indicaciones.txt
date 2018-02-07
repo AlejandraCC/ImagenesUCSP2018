@@ -1,0 +1,15 @@
+Callo Aguilar Alejandra Cristina 
+
+Se trabajo en Visual studio e interfaz
+Utiliza:
+- Opencv
+- formularios
+- openmp 
+
+
+Se adjunta el ejecutable "testForm_opencv" 
+
+Se adjunta los archivos 
+ "MainForm.h"
+ "MainForm.cpp"
+
